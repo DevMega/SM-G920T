@@ -1,0 +1,2 @@
+# SM-G920T
+SM-G920T Kernel
